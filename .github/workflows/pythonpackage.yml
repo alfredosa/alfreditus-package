@@ -55,7 +55,7 @@ jobs:
         python-version: [3.8]
 
   # # 🤖 CD paragraph
-  # # este comm
+  # # este removal test deploy
   # # uncomment the following lines to activate CD to Heroku
   # # - remove the 2 trailing characters "# ", do not change the spaces
   # #   (there should be 2 spaces before the `deploy_heroku` key)
